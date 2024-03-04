@@ -1,5 +1,5 @@
 # Hi there! Welcome !👋
-I'm Muhammad Hashim, a software developer with over 2 years of experience in web applications. but 6 years of experience in IT. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+I am Salman Ahmad, a seasoned software developer with more than 2 years of dedicated experience in crafting robust web applications, complemented by an extensive background spanning 6 years in the realm of Information Technology (IT). My commitment lies in the creation of clean and efficient code, aimed at providing users with exceptional experiences. Driven by an unwavering passion for my craft, I actively seek out new challenges, as they serve as catalysts for personal and professional growth, harnessing them as sources of strength to propel me forward.
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
@@ -48,13 +48,11 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
 ## Contact 📫
-* Email: hashiimtahir@gmail.com
-* Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
+* Email: me@sallu.io
+* Linkedin: [LinkedIn](https://www.linkedin.com/in/)
 
 ## 📊 GitHub Stats:
-![hashimthepassionate's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hashimthepassionate&theme=graywhite&hide_border=true)</br>
-![hashimthepassionate's Stats](https://github-readme-stats.vercel.app/api?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
-![hashimthepassionate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
