@@ -1,5 +1,5 @@
 # Hi there! Welcome !👋
-I am Salman Ahmad, a seasoned software developer with more than 2 years of dedicated experience in crafting robust web applications, complemented by an extensive background spanning 6 years in the realm of Information Technology (IT). My commitment lies in the creation of clean and efficient code, aimed at providing users with exceptional experiences. Driven by an unwavering passion for my craft, I actively seek out new challenges, as they serve as catalysts for personal and professional growth, harnessing them as sources of strength to propel me forward.
+I am Salman Ahmad, a seasoned software developer with more than 1 years of dedicated experience in crafting robust web applications, complemented by an extensive background spanning 3 years in the realm of Information Technology (IT). My commitment lies in the creation of clean and efficient code, aimed at providing users with exceptional experiences. Driven by an unwavering passion for my craft, I actively seek out new challenges, as they serve as catalysts for personal and professional growth, harnessing them as sources of strength to propel me forward.
 
 ## Skills 🚀
 <h4>👨‍💻 Programming and Markup Languages</h4>
