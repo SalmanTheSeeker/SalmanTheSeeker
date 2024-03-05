@@ -43,8 +43,7 @@ I am Salman Ahmad, a seasoned software developer with more than 1 years of dedic
 </details>
 
 ## Education 🎓
-* Bachelor's degree in Computer Science
-* Courses: Machine Learning, AI, Web3, and Metaverse.
+* Courses: Machine Learning, AI, and Web3.
 <br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
 ## Contact 📫
